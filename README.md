@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a B.Tech Information Technology student at KIIT, Bhubaneswar, passionate about building intelligent systems using Artificial Intelligence, Machine Learning, and Cybersecurity concepts. I enjoy developing practical applications that combine AI models with real-world software systems, focusing on problem-solving and scalable solutions. <br><br>My work mainly explores AI-driven applications, intelligent automation, and data-driven systems using technologies like Python, PyTorch, Flask, and JavaScript. <br><br>📫 Connect With Me<br><br>LinkedIn: www.linkedin.com/in/sagnik-chatterjee-374a5b345<br>GitHub: https://github.com/Blazingphoenix-181<br>
+I am a B.Tech Information Technology student at KIIT, Bhubaneswar, passionate about building intelligent systems using Artificial Intelligence, Machine Learning, and Cybersecurity concepts. I enjoy developing practical applications that combine AI models with real-world software systems, focusing on problem-solving and scalable solutions. <br><br>My work mainly explores AI-driven applications, intelligent automation, and data-driven systems using technologies like Python, PyTorch, Flask, and JavaScript. <br><br>📫 Connect With Me<br><br>LinkedIn: www.linkedin.com/in/sagnik-chatterjee-374a5b345<br>GitHub: https://github.com/Blazingphoenix-181<br>CV:https://cv-ten-zeta.vercel.app/
 
 
 # 💻 Tech Stack:
